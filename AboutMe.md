@@ -1,0 +1,6 @@
+- 👋 Hi, I’m AttyAdan
+- 👀 I’m interested in Java, C++, PHP (with CSS and JavaScript), C#, VB.NET, and full-stack development.
+- 🌱 I’m currently a 3rd-year college student, learning more about both front-end and back-end development, and expanding my knowledge in web technologies.
+- 💞️ I’m looking to collaborate on open-source projects or anything related to web development (front-end + back-end), desktop applications, and game development.
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I'm a lazy pep xD
